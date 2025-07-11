@@ -42,19 +42,21 @@ GitHub 업로드 용량 제한(100MB)을 초과한 아래 파일은 포함되지
 ---
 ## 🗂️ 폴더 구조
 
+```
 Instacart_RFML_Project/
 ├── UI/
-│ ├── instacart-adminpage/ # 관리자용 대시보드 UI
-│ └── instacart-with-recommendation/ # 추천 시스템 기반 UI 프로토타입
+│   ├── instacart-adminpage/                 # 관리자용 대시보드 UI
+│   └── instacart-with-recommendation/       # 추천 시스템 기반 UI 프로토타입
 │
 ├── 데이터/
-│ └── k5(5개 등급으로 분류)/ # 군집 분석 및 전처리 결과
+│   └── k5(5개 등급으로 분류)/               # 군집 분석 및 전처리 결과
 │
-├── WBS 및 주간일지/ # 주간 보고서 및 일정 관리
-├── 시연영상/ # 군집별 시나리오/UX 시연 영상
-├── 최종PPT/ # 발표자료 (용량 문제로 업로드 제외)
+├── WBS 및 주간일지/                         # 주간 보고서 및 일정 관리
+├── 시연영상/                                # 군집별 시나리오/UX 시연 영상
+├── 최종PPT/                                 # 발표자료 (용량 문제로 업로드 제외)
 ├── .gitignore
 └── README.md
+```
 
 
 
